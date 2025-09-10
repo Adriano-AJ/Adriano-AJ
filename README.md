@@ -1,19 +1,41 @@
-<div>
+# 👋 Olá, me chamo Adriano!
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
-    <img align="center" height="80" width="80" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="80" width="80" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="80" width="80" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="80" width="80" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" height="80" width="80" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="80" width="80" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="80" width="80" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="80" width="80" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="80" width="80" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   </div>
-    
-  
-</div>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (formação em 2026).  
+💻 Atuo como **freelancer em desenvolvimento web**, criando sites e sistemas modernos.  
+🚀 Apaixonado por **tecnologia, programação e automação de processos**.  
+🎮 Nas horas vagas, gosto de jogar **Valorant**, vôlei e treinar na academia.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,php,cs,dotnet,nodejs,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adriano-AJ&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-AJ&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🌟 O que estou fazendo atualmente
+- 📚 Aprendendo **Next.js** e **TypeScript**.  
+- 🤖 Criando bots em **Python e Node.js** para automações.  
+- 🖥️ Montando meu **portfólio web** para apresentar projetos.  
+- 📈 Explorando **freelancer** como desenvolvedor de sites.  
+
+---
+
+## 📫 Como me encontrar
+- 💼 [LinkedIn](linkedin.com/in/adriano-junior-aj) 
+- 📧 Email: adrianobinan@gmail.com  
+
+---
+
+✨ Sempre aprendendo e buscando evoluir como desenvolvedor!
