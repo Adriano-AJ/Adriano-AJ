@@ -10,7 +10,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,php,cs,dotnet,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,cs,dotnet,java,nodejs,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 ## 🌟 O que estou fazendo atualmente
 - 📚 Aprendendo **Next.js** e **TypeScript**.  
-- 🤖 Criando bots em **Python e Node.js** para automações.  
+- 🤖 Criando bots em **Python** para automações.  
 - 🖥️ Montando meu **portfólio web** para apresentar projetos.  
 - 📈 Explorando **freelancer** como desenvolvedor de sites.  
 
