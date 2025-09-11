@@ -25,8 +25,8 @@
 ---
 
 ## 🌟 O que estou fazendo atualmente
-- 📚 Aprendendo **Next.js** e **TypeScript**.  
-- 🤖 Criando bots em **Python** para automações.  
+- 📚 Aprendendo **ASP .NET**.  
+- 🤖 Criando bots com **Power Automate**.  
 - 🖥️ Montando meu **portfólio web** para apresentar projetos.  
 - 📈 Explorando **freelancer** como desenvolvedor de sites.  
 
