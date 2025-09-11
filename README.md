@@ -1,13 +1,13 @@
-# 👋 Olá, me chamo Adriano!
+# 👋 Hi, my name is Adriano!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (formação em 2026).  
-💻 Atuo como **freelancer em desenvolvimento web**, criando sites e sistemas modernos.  
-🚀 Apaixonado por **tecnologia, programação e automação de processos**.  
-🎮 Nas horas vagas, gosto de jogar **Valorant**, vôlei e treinar na academia.  
+🎓 Student of **Systems Analysis and Development** (graduation in 2026).  
+💻 Working as a **freelance web developer**, building modern websites and systems.  
+🚀 Passionate about **technology, programming, and process automation**.  
+🎮 In my free time, I enjoy playing **Valorant**, volleyball, and working out at the gym.  
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,php,cs,dotnet,java,nodejs,mysql,git,github,vscode" />
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adriano-AJ&show_icons=true&theme=tokyonight" height="180em"/>
@@ -24,18 +24,18 @@
 
 ---
 
-## 🌟 O que estou fazendo atualmente
-- 📚 Aprendendo **ASP .NET**.  
-- 🤖 Criando bots com **Power Automate**.  
-- 🖥️ Montando meu **portfólio web** para apresentar projetos.  
-- 📈 Explorando **freelancer** como desenvolvedor de sites.  
+## 🌟 What I'm Currently Working On
+- 📚 Learning **ASP .NET**.  
+- 🤖 Creating bots with **Power Automate**.  
+- 🖥️ Building my **web portfolio** to showcase my projects.  
+- 📈 Exploring **freelance opportunities** as a web developer.  
 
 ---
 
-## 📫 Como me encontrar
-- 💼 [LinkedIn](linkedin.com/in/adriano-junior-aj) 
+## 📫 How to Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/adriano-junior-aj)  
 - 📧 Email: adrianobinan@gmail.com  
 
 ---
 
-✨ Sempre aprendendo e buscando evoluir como desenvolvedor!
+✨ Always learning and striving to grow as a developer!
